@@ -1,0 +1,4 @@
+One Windows operating system function is booting up a computer. 
+You can boot up an OS from either an Internal/External drive or even a USB stick.
+The ability to turn on a system and start running all its components is coupled by the same ability to cease those same functions. 
+You can also turn off and cease operations via the shut down option. 
