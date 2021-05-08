@@ -7,3 +7,8 @@ Another function of a operationg system function is the ability to use programs.
 That function allows the use of programs like web browsers and word processors to run on the computer. 
 It can also manage several programs all at the same time. 
 Through programs like the Task Manager, we can see all the programs and processes the system is handling at once. 
+
+One other function is the ability to use and configure devices and internal and external drives.
+Whether it be a solid state drive, a storage hard drive, or an external drive like a usb stick, the operating system will recognize it and allow users to configue it.
+Also it allows the managing of other smaller devices like keyboards and mice. 
+Through tools like Device Manager, we can configure the settings of each device, updates drivers and etc. 
