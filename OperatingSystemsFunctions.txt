@@ -1,4 +1,9 @@
-One Windows operating system function is booting up a computer. 
+One operating system function is booting up a computer. 
 You can boot up an OS from either an Internal/External drive or even a USB stick.
 The ability to turn on a system and start running all its components is coupled by the same ability to cease those same functions. 
 You can also turn off and cease operations via the shut down option. 
+
+Another function of a operationg system function is the ability to use programs. 
+That function allows the use of programs like web browsers and word processors to run on the computer. 
+It can also manage several programs all at the same time. 
+Through programs like the Task Manager, we can see all the programs and processes the system is handling at once. 
